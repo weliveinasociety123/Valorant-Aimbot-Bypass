@@ -19,3 +19,5 @@ This is the cheats performance after training it for 100 hours against real play
 
 Big thanks to secret club and LChamber for helping me in discord.
 
+HOW DO I RUN THIS???
+
